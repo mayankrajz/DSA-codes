@@ -1,6 +1,8 @@
 #include<iostream>
 using namespace std;
 
+//cal
+
 int main()
 {
     int a, b;
