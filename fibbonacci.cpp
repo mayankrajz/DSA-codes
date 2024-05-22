@@ -10,7 +10,7 @@ int main()
     int y=1;
     cout<< x <<" "<< y <<" ";
 
-    for(int i=0; i<=a; i++)
+    for(int i=2; i<=a; i++)
     {
        int add= x+y;
        cout<<add<<" ";
